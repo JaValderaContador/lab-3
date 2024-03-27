@@ -7,6 +7,7 @@ body {
     flex-direction: column;
     min-height: 100vh;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aquamarine;
 }
 
 footer {
@@ -23,4 +24,12 @@ main {
 
 .modal {
     background-color: greenyellow;
+}
+
+.navbar {
+    background-color: grey;
+}
+
+.btn {
+    background-color: red;
 }
