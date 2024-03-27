@@ -6,6 +6,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 footer {
@@ -18,4 +19,8 @@ footer {
 
 main {
     flex-grow: 1;
+}
+
+.modal {
+    background-color: greenyellow;
 }
